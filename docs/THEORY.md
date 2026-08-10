@@ -1,0 +1,1 @@
+# RHF equations\n\nFor a closed-shell density $P$,\n\n$$F_{\mu\nu}=H_{\mu\nu}+\sum_{\lambda\sigma}P_{\lambda\sigma}\left[(\mu\nu|\lambda\sigma)-\frac12(\mu\lambda|\nu\sigma)\right].$$\n\nThe Roothaan-Hall equation is $FC=SC\epsilon$. HF-Lab solves the ordinary Hermitian problem after symmetric orthogonalization $X=S^{-1/2}$: $X^TFX C'=C'\epsilon$, followed by $C=XC'$.\n
