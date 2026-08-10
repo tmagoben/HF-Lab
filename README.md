@@ -20,7 +20,7 @@ $$
 - closed-shell Coulomb and exchange matrices;
 - Roothaan-Hall SCF iteration;
 - electronic and nuclear-repulsion energies;
-- regression tests for integral symmetries and the H$_2$ reference energy.
+- regression tests for integral symmetries and the $H_2$ reference energy.
 
 ```bash
 pip install -e ".[dev]"
